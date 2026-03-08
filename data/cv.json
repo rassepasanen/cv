@@ -7,5 +7,17 @@
   "location": "Helsinki",
   "available": "",
   "about": [],
-  "social": []
+  "social": [],
+  "experience": [
+    {
+      "role": "Senior MarTech Developer",
+      "company": "Sanoma Media Finland",
+      "period": "2023",
+      "current": true,
+      "description": "Onboarding Braze for +40 brands in Sanoma's portfolio with all available channels in production use. Completed four certifications: AI fundamentals, Architecture, Developer and Digital Strategist.",
+      "tags": [
+        "Braze"
+      ]
+    }
+  ]
 }
